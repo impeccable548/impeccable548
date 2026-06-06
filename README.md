@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 
 
-# Providence
+# Providence(Impeccable)
 
-**Solana / Web3 Developer** — building tools that make on-chain data readable and actionable.
+**Solana / Web3/Web2 Developer** — building tools that make on-chain data readable and actionable.
 
-I'm a frontend engineer focused on the Solana ecosystem. I ship browser-based dashboards that let users inspect, diagnose, and interact with blockchain state without leaving the page. My work sits at the intersection of React/TypeScript and `@solana/web3.js` — typed UIs over raw RPC data.
+I'm a fullstack engineer focused on the Solana ecosystem. I ship browser-based dashboards that let users inspect, diagnose, and interact with blockchain state without leaving the page. My most latest  work sits at the intersection of React/TypeScript and `@solana/web3.js` — typed UIs over raw RPC data.
 
 ---
 
@@ -50,14 +50,14 @@ I'm a frontend engineer focused on the Solana ecosystem. I ship browser-based da
 
 **Frontend:** React · TypeScript · Vite · Tailwind CSS · TanStack Router/Query  
 **Web3:** Solana Web3.js · SPL Token · Wallet Adapter · RPC consumers  
-**Backend:** Node.js · Express · REST APIs · Edge functions  
-**Other:** Git · GitHub Actions · Vercel · Figma
+**Backend:** Node.js · Express · REST APIs · python · Edge functions  
+**Other:** Git · GitHub Actions · Vercel ·render · Agentic IDE and CLI · Supabase 
 
 ---
 
 ## What I'm Looking For
 
-- Entry-level frontend / full-stack roles in Web3, DeFi, or blockchain tooling
+- Entry-level frontend / full-stack roles in Web2, Web3, DeFi, or blockchain tooling
 - Opportunities to grow into smart-contract development (Rust / Anchor)
 - Teams that ship in public and value clean UX over hype
 
