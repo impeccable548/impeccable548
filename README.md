@@ -1,74 +1,29 @@
-## Hi there 👋
+Hi, I'm Providence 👋
+Full-stack & Web3 developer. Solana is my home chain. I ship browser-based tools that make on-chain actions feel as simple as web2.
 
-<!--
-**impeccable548/impeccable548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently building
+Arete — a Web3 invoicing tool for freelancers, devs and clients.
 
-Here are some ideas to get you started:
+Connect wallet → generate an invoice → get a QR code clients can scan to pay you on-chain.
+Built for Solana first (low fees, fast finality), multi-chain later.
+Stack: React 19 + TypeScript + Vite + Tailwind, @solana/web3.js, @solana/spl-token, @solana/wallet-adapter-react.
+📌 Pinned work
+BurnOut — Solana wallet diagnostics dashboard. Inspect any wallet's SPL tokens, balances, and activity in the browser. React + TS + Vite + Solana Web3.js, with a server-side RPC proxy.
+🧠 Stack
+Languages: TypeScript, JavaScript, Python, Rust, Solidity
+Frontend: React, Vite, Tailwind, shadcn/ui
+Web3: Solana (Web3.js, SPL Token, Wallet Adapter), EVM basics
+Backend: Node.js, Express, REST, edge functions
+Tools: Git, GitHub Actions, Figma
+🌱 Learning
+Anchor & Rust programs on Solana, transaction simulation, security patterns, and devnet → mainnet flows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
-
-
-# Providence(Impeccable)
-
-**Solana / Web3/Web2 Developer** — building tools that make on-chain data readable and actionable.
-
-I'm a fullstack engineer focused on the Solana ecosystem. I ship browser-based dashboards that let users inspect, diagnose, and interact with blockchain state without leaving the page. My most latest  work sits at the intersection of React/TypeScript and `@solana/web3.js` — typed UIs over raw RPC data.
-
----
-
-## Featured Project
-
-### 🔥 [BurnOut](https://github.com/impeccable548/BurnOut)
-**Solana wallet diagnostics dashboard** — scans connected wallets for reclaimable rent in dormant SPL token accounts, decodes failed-transaction errors, and surfaces live network telemetry.
-
-- **Stack:** React 19 · TypeScript · Vite · Tailwind CSS · `@solana/web3.js` · `@solana/spl-token` · `@solana/wallet-adapter-react` (Phantom / Solflare)
-- **Architecture:** Server-side RPC proxy so no API keys ship to the client
-- **What it does:** Identifies empty token accounts → estimates reclaimable rent → prepares closure transactions → connects wallet for signing
-- **What I'm adding next:** live transaction signing, ownership verification, transaction simulation with priority-fee suggestion
-
-> This project taught me the Solana account model, rent exemption thresholds, RPC response parsing, and wallet-adapter integration patterns.
-
----
-
-## Currently Learning
-
-- Solana Program Library (SPL) internals and Token-2022 extensions
-- Transaction construction, simulation, and priority-fee mechanics
-- Security patterns for wallet-connected dApps (ownership checks, signature verification)
-- Building for testnet / devnet with reproducible deployment flows
-
----
-
-## Tech Stack
-
-**Frontend:** React · TypeScript · Vite · Tailwind CSS · TanStack Router/Query  
-**Web3:** Solana Web3.js · SPL Token · Wallet Adapter · RPC consumers  
-**Backend:** Node.js · Express · REST APIs · python · Edge functions  
-**Other:** Git · GitHub Actions · Vercel ·render · Agentic IDE and CLI · Supabase 
-
----
-
-## What I'm Looking For
-
-- Entry-level frontend / full-stack roles in Web2, Web3, DeFi, or blockchain tooling
-- Opportunities to grow into smart-contract development (Rust / Anchor)
-- Teams that ship in public and value clean UX over hype
-
----
-
-## Let's Talk
-
-- 📫 Email: [igheleraro2@gmail.com]
-- 🐦 Twitter / X: [https://x.com/impeccable_477]
-
-> _Open to remote roles, internships, and freelance projects. Based in [your location / timezone]._
-
-- ⚡ Fun fact: ...
--->
+👯 Open to
+Entry/junior Web3 / full-stack roles
+Freelance Solana frontends, dashboards, and payment flows
+Collabs on anything that ships in public
+📫 Reach me
+📧 igheleraro2@gmail.com
+𝕏 @impeccable_477
+⚡ Fun fact
+No fancy rig — building everything from a phone + cloud IDEs. Constraints make better devs.
